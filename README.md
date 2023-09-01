@@ -21,5 +21,5 @@
 
 
 
-![snake gif](https://github.com/sarpdogan/sarpdogan/blob/output/github-contribution-grid-snake.gif)
+
 
